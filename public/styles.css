@@ -1,0 +1,16 @@
+.grid {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: auto 1fr auto;
+    gap: 5px;
+    height: 90vh
+}
+
+header, footer{
+    background-color: lightblue;
+    grid-column: 1 / 4;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

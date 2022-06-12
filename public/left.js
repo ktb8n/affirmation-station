@@ -2,9 +2,8 @@ function Left(props) {
 	return (
 		<>
 			<aside>
-				<PlusMinus section='left' handle={props.handle} />
-				<div className='section'>Enter new task:{props.data.left}</div>
-				<Data data={props.data} />
+				<h3>Press the button:</h3>
+					<button>I am great</button>
 			</aside>
 		</>
 	);

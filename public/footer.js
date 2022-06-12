@@ -2,9 +2,10 @@ function Footer(props) {
 	return (
 		<>
 			<footer>
-				<PlusMinus section='footer' handle={props.handle} />
-				<div className='section'>Footer: I am doing my best.{props.data.footer}</div>
-				<Data data={props.data} />
+				<div>ktb8n &#9829;'s you</div>
+				<div>
+					<small>&#9830;2022 &#9830; </small>{" "}
+				</div>
 			</footer>
 		</>
 	);

@@ -9,8 +9,14 @@
 header, footer{
     background-color: lightblue;
     grid-column: 1 / 4;
+    text-align: center;
 }
 
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section{
+    background-color: gray;
+
 }

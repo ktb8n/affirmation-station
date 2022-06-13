@@ -3,11 +3,8 @@ function Board(props) {
 		<>
 			<article>
 				<div className='section'>
-					<h5>Truth goes here.</h5>
-
-					{props.data.article}
+					<h5>Truth:{props.affirmation}</h5>
 				</div>
-				<Data data={props.data} />
 			</article>
 		</>
 	);

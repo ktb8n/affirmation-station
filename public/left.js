@@ -3,7 +3,7 @@ function Left(props) {
 		<>
 			<aside>
 				<h3>Press the button:</h3>
-					<button>I am great</button>
+				<button onClick={getAffirmation}>I am great</button>
 			</aside>
 		</>
 	);

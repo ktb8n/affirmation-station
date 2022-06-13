@@ -15,7 +15,7 @@ const affirmations = [
 	"HELL YEAH YOU BADASS SORCERER",
 	"WTF ARE YOU EVEN SERIOUS YOURE ABSOLUTELY AMAZING",
 	"WOWZA HOLY CRAP YOU HAVE LEARNED SO MUCH",
-	"You're doing great thing!!",
+	"You're doing great things!!",
 	"OF COURSE IT'S HARD. EASY THINGS ARE BORING",
 	"STUCK? Draw for 10 minutes. Works like a charm. BECAUSE YOURE FREAKIN AMAZING"
 ];
